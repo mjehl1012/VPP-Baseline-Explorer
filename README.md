@@ -1,7 +1,7 @@
 # VPP Baseline Explorer
 
 An interactive Streamlit app to automatically compare baseline estimation methods for demand response events.
-Use the provided simulated thermostat telemetry and control group data to visualize load profiles, evaluate baselines, and measure event impact for a single device across a handful of events in Summer 2024. Download the data provided here to upload into the app!
+Use the provided simulated thermostat telemetry and control group data to visualize load profiles, evaluate baselines, and measure event impact for a single device across a handful of events in Summer 2024. Download the data provided here to upload into the Streamlit app hosted here: https://vpp-baseline-explorer.streamlit.app/
 
 ## 🔧 How to Run Locally
 
@@ -36,7 +36,7 @@ streamlit run app.py
 - Load vs baseline visualizations
 
 ## Walkthrough
-- Launch publicly available Streamlit app: https://vpp-baseline-explorer.streamlit.app/
+- Launch app.
   <img width="3823" height="1963" alt="image" src="https://github.com/user-attachments/assets/d5076728-1738-4b63-bf5c-8a13c417cb65" />
   
 - Upload device telemetry and control telemetry data found in this repo
