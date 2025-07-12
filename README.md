@@ -12,7 +12,7 @@ streamlit run app.py
 
 ## Expected File Formats
 
-### Load Series CSV
+### Telemetry Data CSV
 - Required Columns: `Timestamp`, `OutdoorTemp`, `OutdoorHumidity`, `kW`
 - Timestamp should be in UTC or timezone-naive 15-minute intervals.
 
